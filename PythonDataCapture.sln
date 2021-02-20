@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonDataCapture", "PythonDataCapture\PythonDataCapture.pyproj", "{78F6D483-EE47-4697-91C4-2F5D55B20431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F6D483-EE47-4697-91C4-2F5D55B20431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F6D483-EE47-4697-91C4-2F5D55B20431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE9E7055-7806-43A7-88BC-9B8921A47CC3}
+	EndGlobalSection
+EndGlobal
